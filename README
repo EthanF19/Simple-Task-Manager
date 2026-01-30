@@ -1,0 +1,19 @@
+# CSharp Console Task Manager
+
+A simple console-based task manager written in CSharp.
+
+This project was created to practise core software development concepts in preparation for a Software Development Level 4 apprenticeship application.
+
+## Features
+- Add tasks
+- View tasks
+- Exit the application cleanly
+
+## Concepts Demonstrated
+- Object-oriented programming (classes and objects)
+- Lists and basic data structures
+- Control flow (loops and conditionals)
+- Console input and output
+
+## Notes
+This project focuses on clarity and structure rather than advanced features or persistence.
